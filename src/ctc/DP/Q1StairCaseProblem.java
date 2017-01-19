@@ -10,9 +10,9 @@ import java.util.TreeMap;
 public class Q1StairCaseProblem{
 	public static void main(String args[]){
 			TreeMap<Integer,String> tm= new TreeMap<Integer,String>();
-			tm.put(1,"Sankalp");
-			tm.put(2,"Naveen");
-			tm.put(3,"Akshay");
+			tm.put(1,"a");
+			tm.put(2,"b");
+			tm.put(3,"c");
 			char a= 'A';
 			System.out.println((int)a);
 			for(Map.Entry e: tm.entrySet()){
